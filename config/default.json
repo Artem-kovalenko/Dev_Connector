@@ -1,0 +1,3 @@
+{
+  "mongoURI": "mongodb+srv://Artem:Artem@devconnector.qdi79.mongodb.net/<dbname>?retryWrites=true&w=majority"
+}
